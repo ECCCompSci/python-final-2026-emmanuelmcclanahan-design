@@ -1,8 +1,8 @@
 # 📝 Project Planning Worksheet
 
-**Name:** ___________________________  
+**Name:** jr
 **Date:** ___________________________  
-**Project Title:** ___________________________
+**Project Title:** final
 
 ---
 
@@ -10,7 +10,7 @@
 
 *Write 2–3 sentences describing your project. What happens when the user runs it? What will they see or do?*
 
-> 
+> Pick a secret number; let the user guess; tell them if they’re too high, too low, or correct
 
 ---
 
@@ -18,9 +18,9 @@
 
 *List every `input()` question you plan to use.*
 
-1. 
-2. 
-3. 
+1. whats your number
+2. who are you 
+3. are you a plane
 
 ---
 
@@ -30,10 +30,7 @@
 
 | Variable Name | What It Stores | Data Type |
 |---------------|---------------|-----------|
-| | | |
-| | | |
-| | | |
-| | | |
+secret_number    guess the number int and string
 
 ---
 
@@ -41,9 +38,7 @@
 
 *Describe each `if/elif/else` check your program will use.*
 
-- If _________________________, then print _________________________
-- Elif _________________________, then print _________________________
-- Else print _________________________
+-If the number is greater than zero, then print "The number is positive."Elif the number is less than zero, then print "The number is negative."Else print "The number is zero."
 
 *(Add more rows if needed.)*
 
